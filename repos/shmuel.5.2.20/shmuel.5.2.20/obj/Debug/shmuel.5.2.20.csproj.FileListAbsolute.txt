@@ -1,0 +1,6 @@
+C:\Users\Yanky\source\repos\shmuel.5.2.20\shmuel.5.2.20\bin\Debug\shmuel.5.2.20.exe.config
+C:\Users\Yanky\source\repos\shmuel.5.2.20\shmuel.5.2.20\bin\Debug\shmuel.5.2.20.exe
+C:\Users\Yanky\source\repos\shmuel.5.2.20\shmuel.5.2.20\bin\Debug\shmuel.5.2.20.pdb
+C:\Users\Yanky\source\repos\shmuel.5.2.20\shmuel.5.2.20\obj\Debug\shmuel.5.2.20.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\shmuel.5.2.20\shmuel.5.2.20\obj\Debug\shmuel.5.2.20.exe
+C:\Users\Yanky\source\repos\shmuel.5.2.20\shmuel.5.2.20\obj\Debug\shmuel.5.2.20.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp to SQL date checker", "Csharp to SQL date checker\Csharp to SQL date checker.csproj", "{F776F353-AB84-41BF-B951-49D82EA8E930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp to SQL date checker 2", "Csharp to SQL date checker 2\Csharp to SQL date checker 2.csproj", "{0ECE9931-E1C6-42A6-B918-91FDF9553518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F776F353-AB84-41BF-B951-49D82EA8E930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F776F353-AB84-41BF-B951-49D82EA8E930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F776F353-AB84-41BF-B951-49D82EA8E930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F776F353-AB84-41BF-B951-49D82EA8E930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECE9931-E1C6-42A6-B918-91FDF9553518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECE9931-E1C6-42A6-B918-91FDF9553518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECE9931-E1C6-42A6-B918-91FDF9553518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECE9931-E1C6-42A6-B918-91FDF9553518}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {794DCE24-423A-4F73-A283-EE7D5C0EF588}
+	EndGlobalSection
+EndGlobal

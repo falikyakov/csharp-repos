@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\November 17 2019\GenericLists\bin\Debug\GenericLists.exe.config
+C:\Users\Yanky\source\repos\November 17 2019\GenericLists\bin\Debug\GenericLists.exe
+C:\Users\Yanky\source\repos\November 17 2019\GenericLists\bin\Debug\GenericLists.pdb
+C:\Users\Yanky\source\repos\November 17 2019\GenericLists\obj\Debug\GenericLists.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\November 17 2019\GenericLists\obj\Debug\GenericLists.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\November 17 2019\GenericLists\obj\Debug\GenericLists.exe
+C:\Users\Yanky\source\repos\November 17 2019\GenericLists\obj\Debug\GenericLists.pdb

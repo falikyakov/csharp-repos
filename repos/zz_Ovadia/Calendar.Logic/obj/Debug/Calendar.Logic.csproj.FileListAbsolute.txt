@@ -1,0 +1,6 @@
+C:\Users\Yanky\source\repos\zz_Ovadia\Calendar.Logic\bin\Debug\Calendar.Logic.dll
+C:\Users\Yanky\source\repos\zz_Ovadia\Calendar.Logic\bin\Debug\Calendar.Logic.pdb
+C:\Users\Yanky\source\repos\zz_Ovadia\Calendar.Logic\obj\Debug\Calendar.Logic.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\zz_Ovadia\Calendar.Logic\obj\Debug\Calendar.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\zz_Ovadia\Calendar.Logic\obj\Debug\Calendar.Logic.dll
+C:\Users\Yanky\source\repos\zz_Ovadia\Calendar.Logic\obj\Debug\Calendar.Logic.pdb

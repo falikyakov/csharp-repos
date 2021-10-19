@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\read.א.מ\read.א.מ\bin\Debug\read.א.מ.exe.config
+C:\Users\Yanky\source\repos\read.א.מ\read.א.מ\bin\Debug\read.א.מ.exe
+C:\Users\Yanky\source\repos\read.א.מ\read.א.מ\bin\Debug\read.א.מ.pdb
+C:\Users\Yanky\source\repos\read.א.מ\read.א.מ\obj\Debug\read.א.מ.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\read.א.מ\read.א.מ\obj\Debug\read.א.מ.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\read.א.מ\read.א.מ\obj\Debug\read.א.מ.exe
+C:\Users\Yanky\source\repos\read.א.מ\read.א.מ\obj\Debug\read.א.מ.pdb

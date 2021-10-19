@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KugelMLModelStoreContainer" CdmEntityContainer="KugelMLEntities">
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="KugelMLModel.Customer">
+        <MappingFragment StoreEntitySet="Customer">
+          <ScalarProperty Name="CustomerId" ColumnName="CustomerId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Area" ColumnName="Area" />
+          <ScalarProperty Name="Tel" ColumnName="Tel" />
+          <ScalarProperty Name="Cell" ColumnName="Cell" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Kugels">
+      <EntityTypeMapping TypeName="KugelMLModel.Kugel">
+        <MappingFragment StoreEntitySet="Kugel">
+          <ScalarProperty Name="KugelId" ColumnName="KugelId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Ingredients" ColumnName="Ingredients" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Orders">
+      <EntityTypeMapping TypeName="KugelMLModel.Order">
+        <MappingFragment StoreEntitySet="Orders">
+          <ScalarProperty Name="OrderId" ColumnName="OrderId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="CustomerId" ColumnName="CustomerId" />
+          <ScalarProperty Name="PotatoKOrdered" ColumnName="PotatoKOrdered" />
+          <ScalarProperty Name="AppleCherryOrdered" ColumnName="AppleCherryOrdered" />
+          <ScalarProperty Name="LukshenOrdered" ColumnName="LukshenOrdered" />
+          <ScalarProperty Name="OnionOrdered" ColumnName="OnionOrdered" />
+          <ScalarProperty Name="CarrotLoafOrdered" ColumnName="CarrotLoafOrdered" />
+          <ScalarProperty Name="KishkeOrdered" ColumnName="KishkeOrdered" />
+          <ScalarProperty Name="PriceOfOrder" ColumnName="PriceOfOrder" />
+          <ScalarProperty Name="DateOfOrder" ColumnName="DateOfOrder" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Stores">
+      <EntityTypeMapping TypeName="KugelMLModel.Store">
+        <MappingFragment StoreEntitySet="Store">
+          <ScalarProperty Name="StoreId" ColumnName="StoreId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Area" ColumnName="Area" />
+          <ScalarProperty Name="Tel" ColumnName="Tel" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="Manager" ColumnName="Manager" />
+          <ScalarProperty Name="OwnerCell" ColumnName="OwnerCell" />
+          <ScalarProperty Name="MgrCell" ColumnName="MgrCell" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\OOP - correct code\OOP - correct code\bin\Debug\OOP - correct code.exe.config
+C:\Users\Yanky\source\repos\OOP - correct code\OOP - correct code\bin\Debug\OOP - correct code.exe
+C:\Users\Yanky\source\repos\OOP - correct code\OOP - correct code\bin\Debug\OOP - correct code.pdb
+C:\Users\Yanky\source\repos\OOP - correct code\OOP - correct code\obj\Debug\OOP - correct code.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\OOP - correct code\OOP - correct code\obj\Debug\OOP - correct code.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\OOP - correct code\OOP - correct code\obj\Debug\OOP - correct code.exe
+C:\Users\Yanky\source\repos\OOP - correct code\OOP - correct code\obj\Debug\OOP - correct code.pdb

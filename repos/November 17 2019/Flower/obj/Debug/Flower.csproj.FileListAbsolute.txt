@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\November 17 2019\Flower\bin\Debug\Flower.exe.config
+C:\Users\Yanky\source\repos\November 17 2019\Flower\bin\Debug\Flower.exe
+C:\Users\Yanky\source\repos\November 17 2019\Flower\bin\Debug\Flower.pdb
+C:\Users\Yanky\source\repos\November 17 2019\Flower\obj\Debug\Flower.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\November 17 2019\Flower\obj\Debug\Flower.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\November 17 2019\Flower\obj\Debug\Flower.exe
+C:\Users\Yanky\source\repos\November 17 2019\Flower\obj\Debug\Flower.pdb

@@ -1,0 +1,23 @@
+﻿<Students>
+  <Student>
+    <name>Danny</name>
+    <age>45</age>
+    <city>Brooklyn</city>
+    <phone>032548458</phone>
+    <phone>0522321458</phone>
+  </Student>
+  <Student>
+    <name>Shloimy</name>
+    <age>40</age>
+    <city>Jerusalem</city>
+    <phone>025487412</phone>
+    <phone>0548759584</phone>
+  </Student>
+  <Student>
+    <name>Mary</name>
+    <age>38</age>
+    <city>Bet Shemesh</city>
+    <phone>089584752</phone>
+    <phone>0584578541</phone>
+  </Student>
+</Students>

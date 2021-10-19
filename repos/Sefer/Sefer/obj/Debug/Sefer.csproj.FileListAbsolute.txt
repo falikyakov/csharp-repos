@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\Sefer\Sefer\bin\Debug\Sefer.exe.config
+C:\Users\Yanky\source\repos\Sefer\Sefer\bin\Debug\Sefer.exe
+C:\Users\Yanky\source\repos\Sefer\Sefer\bin\Debug\Sefer.pdb
+C:\Users\Yanky\source\repos\Sefer\Sefer\obj\Debug\Sefer.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\Sefer\Sefer\obj\Debug\Sefer.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\Sefer\Sefer\obj\Debug\Sefer.exe
+C:\Users\Yanky\source\repos\Sefer\Sefer\obj\Debug\Sefer.pdb

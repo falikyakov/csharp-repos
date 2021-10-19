@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\DemoLibrary CoreySchafer\DemoLibrary CoreySchafer\bin\Debug\DemoLibrary CoreySchafer.exe.config
+C:\Users\Yanky\source\repos\DemoLibrary CoreySchafer\DemoLibrary CoreySchafer\bin\Debug\DemoLibrary CoreySchafer.exe
+C:\Users\Yanky\source\repos\DemoLibrary CoreySchafer\DemoLibrary CoreySchafer\bin\Debug\DemoLibrary CoreySchafer.pdb
+C:\Users\Yanky\source\repos\DemoLibrary CoreySchafer\DemoLibrary CoreySchafer\obj\Debug\DemoLibrary CoreySchafer.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\DemoLibrary CoreySchafer\DemoLibrary CoreySchafer\obj\Debug\DemoLibrary CoreySchafer.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\DemoLibrary CoreySchafer\DemoLibrary CoreySchafer\obj\Debug\DemoLibrary CoreySchafer.exe
+C:\Users\Yanky\source\repos\DemoLibrary CoreySchafer\DemoLibrary CoreySchafer\obj\Debug\DemoLibrary CoreySchafer.pdb

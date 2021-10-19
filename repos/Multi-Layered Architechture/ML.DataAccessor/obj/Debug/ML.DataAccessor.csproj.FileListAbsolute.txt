@@ -1,0 +1,8 @@
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\ML.DataAccessor\bin\Debug\ML.DataAccessor.dll
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\ML.DataAccessor\bin\Debug\ML.DataAccessor.pdb
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\ML.DataAccessor\bin\Debug\BusinessEntities.dll
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\ML.DataAccessor\bin\Debug\BusinessEntities.pdb
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\ML.DataAccessor\obj\Debug\ML.DataAccessor.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\ML.DataAccessor\obj\Debug\ML.DataAccessor.csproj.CopyComplete
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\ML.DataAccessor\obj\Debug\ML.DataAccessor.dll
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\ML.DataAccessor\obj\Debug\ML.DataAccessor.pdb

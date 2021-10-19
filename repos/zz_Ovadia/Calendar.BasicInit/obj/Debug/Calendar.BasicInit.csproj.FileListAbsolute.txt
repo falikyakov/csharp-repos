@@ -1,0 +1,6 @@
+C:\Users\Yanky\source\repos\zz_Ovadia\Calendar.BasicInit\bin\Debug\Calendar.BasicInit.exe.config
+C:\Users\Yanky\source\repos\zz_Ovadia\Calendar.BasicInit\bin\Debug\Calendar.BasicInit.exe
+C:\Users\Yanky\source\repos\zz_Ovadia\Calendar.BasicInit\bin\Debug\Calendar.BasicInit.pdb
+C:\Users\Yanky\source\repos\zz_Ovadia\Calendar.BasicInit\obj\Debug\Calendar.BasicInit.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\zz_Ovadia\Calendar.BasicInit\obj\Debug\Calendar.BasicInit.exe
+C:\Users\Yanky\source\repos\zz_Ovadia\Calendar.BasicInit\obj\Debug\Calendar.BasicInit.pdb

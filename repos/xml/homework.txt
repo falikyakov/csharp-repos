@@ -1,0 +1,23 @@
+make dynamic page
+that keypress 'a' will show in center of page the letter a Capital in red
+press b will show B in green
+press c will show C in orange
+
+
+extra credit:
+	letter will appear in big yellow circle background
+	03-
+
+
+2. page with area of newsflashs
+press 1 will show business news
+press 2 will show political news
+(import news file with xmlhttprequest)
+
+
+
+
+
+
+
+

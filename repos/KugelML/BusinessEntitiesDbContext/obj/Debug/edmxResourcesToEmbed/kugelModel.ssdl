@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="KugelMLModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="CustomerId" />
+    </Key>
+    <Property Name="CustomerId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Address" Type="nvarchar" MaxLength="100" />
+    <Property Name="Area" Type="nvarchar" MaxLength="25" />
+    <Property Name="Tel" Type="nvarchar" MaxLength="25" Nullable="false" />
+    <Property Name="Cell" Type="nvarchar" MaxLength="25" />
+    <Property Name="Email" Type="nvarchar" MaxLength="30" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'KugelML.dbo.Kugel' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Kugel">
+    <Key>
+      <PropertyRef Name="KugelId" />
+      <PropertyRef Name="Name" />
+    </Key>
+    <Property Name="KugelId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="Description" Type="nvarchar" MaxLength="80" />
+    <Property Name="Ingredients" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'KugelML.dbo.Orders' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="OrderId" />
+      <PropertyRef Name="Name" />
+      <PropertyRef Name="KishkeOrdered" />
+      <PropertyRef Name="DateOfOrder" />
+    </Key>
+    <Property Name="OrderId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="30" Nullable="false" />
+    <Property Name="CustomerId" Type="int" />
+    <Property Name="PotatoKOrdered" Type="int" />
+    <Property Name="AppleCherryOrdered" Type="int" />
+    <Property Name="LukshenOrdered" Type="int" />
+    <Property Name="OnionOrdered" Type="int" />
+    <Property Name="CarrotLoafOrdered" Type="int" />
+    <Property Name="KishkeOrdered" Type="int" Nullable="false" />
+    <Property Name="PriceOfOrder" Type="nchar" MaxLength="10" />
+    <Property Name="DateOfOrder" Type="date" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'KugelML.dbo.Store' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Store">
+    <Key>
+      <PropertyRef Name="StoreId" />
+    </Key>
+    <Property Name="StoreId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="30" />
+    <Property Name="Address" Type="nvarchar" MaxLength="50" />
+    <Property Name="Area" Type="nvarchar" MaxLength="30" />
+    <Property Name="Tel" Type="nvarchar" MaxLength="25" />
+    <Property Name="Owner" Type="nvarchar" MaxLength="30" />
+    <Property Name="Manager" Type="nvarchar" MaxLength="30" />
+    <Property Name="OwnerCell" Type="nvarchar" MaxLength="25" />
+    <Property Name="MgrCell" Type="nvarchar" MaxLength="25" />
+  </EntityType>
+  <Association Name="FK_Orders_Customer">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="1" />
+    <End Role="Orders" Type="Self.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="CustomerId" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="OrderId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="KugelMLModelStoreContainer">
+    <EntitySet Name="Customer" EntityType="Self.Customer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kugel" EntityType="Self.Kugel" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Kugel].[KugelId] AS [KugelId], 
+    [Kugel].[Name] AS [Name], 
+    [Kugel].[Description] AS [Description], 
+    [Kugel].[Ingredients] AS [Ingredients]
+    FROM [dbo].[Kugel] AS [Kugel]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Orders" EntityType="Self.Orders" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Orders].[OrderId] AS [OrderId], 
+    [Orders].[Name] AS [Name], 
+    [Orders].[CustomerId] AS [CustomerId], 
+    [Orders].[PotatoKOrdered] AS [PotatoKOrdered], 
+    [Orders].[AppleCherryOrdered] AS [AppleCherryOrdered], 
+    [Orders].[LukshenOrdered] AS [LukshenOrdered], 
+    [Orders].[OnionOrdered] AS [OnionOrdered], 
+    [Orders].[CarrotLoafOrdered] AS [CarrotLoafOrdered], 
+    [Orders].[KishkeOrdered] AS [KishkeOrdered], 
+    [Orders].[PriceOfOrder] AS [PriceOfOrder], 
+    [Orders].[DateOfOrder] AS [DateOfOrder]
+    FROM [dbo].[Orders] AS [Orders]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Store" EntityType="Self.Store" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Store].[StoreId] AS [StoreId], 
+    [Store].[Name] AS [Name], 
+    [Store].[Address] AS [Address], 
+    [Store].[Area] AS [Area], 
+    [Store].[Tel] AS [Tel], 
+    [Store].[Owner] AS [Owner], 
+    [Store].[Manager] AS [Manager], 
+    [Store].[OwnerCell] AS [OwnerCell], 
+    [Store].[MgrCell] AS [MgrCell]
+    FROM [dbo].[Store] AS [Store]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_Orders_Customer" Association="Self.FK_Orders_Customer">
+      <End Role="Customer" EntitySet="Customer" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

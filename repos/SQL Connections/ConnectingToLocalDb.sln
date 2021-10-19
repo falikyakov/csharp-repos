@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yossi.19.1.20", "yossi.19.1.20\yossi.19.1.20.csproj", "{8D746AF6-184E-4422-A357-1CA8F354E1C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D746AF6-184E-4422-A357-1CA8F354E1C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D746AF6-184E-4422-A357-1CA8F354E1C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D746AF6-184E-4422-A357-1CA8F354E1C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D746AF6-184E-4422-A357-1CA8F354E1C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF6776D5-6823-4534-B59B-9636858CCA34}
+	EndGlobalSection
+EndGlobal

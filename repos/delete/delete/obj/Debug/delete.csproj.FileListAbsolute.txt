@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\delete\delete\bin\Debug\delete.exe.config
+C:\Users\Yanky\source\repos\delete\delete\bin\Debug\delete.exe
+C:\Users\Yanky\source\repos\delete\delete\bin\Debug\delete.pdb
+C:\Users\Yanky\source\repos\delete\delete\obj\Debug\delete.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\delete\delete\obj\Debug\delete.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\delete\delete\obj\Debug\delete.exe
+C:\Users\Yanky\source\repos\delete\delete\obj\Debug\delete.pdb

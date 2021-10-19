@@ -1,0 +1,6 @@
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\DELETE\bin\Debug\DELETE.exe.config
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\DELETE\bin\Debug\DELETE.exe
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\DELETE\bin\Debug\DELETE.pdb
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\DELETE\obj\Debug\DELETE.exe
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\DELETE\obj\Debug\DELETE.pdb
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\DELETE\obj\Debug\DELETE.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Common\bin\Debug\Calendar.Common.dll.config
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Common\bin\Debug\Calendar.Common.dll
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Common\bin\Debug\Calendar.Common.pdb
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Common\obj\Debug\Calendar.Common.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Common\obj\Debug\Calendar.Common.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Common\obj\Debug\Calendar.Common.csproj.CopyComplete
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Common\obj\Debug\Calendar.Common.dll
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Common\obj\Debug\Calendar.Common.pdb

@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\December 1 2019 Yossi\December 1 2019 Yossi\bin\Debug\December 1 2019 Yossi.exe.config
+C:\Users\Yanky\source\repos\December 1 2019 Yossi\December 1 2019 Yossi\bin\Debug\December 1 2019 Yossi.exe
+C:\Users\Yanky\source\repos\December 1 2019 Yossi\December 1 2019 Yossi\bin\Debug\December 1 2019 Yossi.pdb
+C:\Users\Yanky\source\repos\December 1 2019 Yossi\December 1 2019 Yossi\obj\Debug\December 1 2019 Yossi.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\December 1 2019 Yossi\December 1 2019 Yossi\obj\Debug\December 1 2019 Yossi.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\December 1 2019 Yossi\December 1 2019 Yossi\obj\Debug\December 1 2019 Yossi.exe
+C:\Users\Yanky\source\repos\December 1 2019 Yossi\December 1 2019 Yossi\obj\Debug\December 1 2019 Yossi.pdb

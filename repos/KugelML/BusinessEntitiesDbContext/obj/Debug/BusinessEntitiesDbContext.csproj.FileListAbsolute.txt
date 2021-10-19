@@ -1,0 +1,12 @@
+C:\Users\Yanky\source\repos\KugelML\BusinessEntitiesDbContext\bin\Debug\BusinessEntitiesDbContext.dll.config
+C:\Users\Yanky\source\repos\KugelML\BusinessEntitiesDbContext\bin\Debug\BusinessEntitiesDbContext.dll
+C:\Users\Yanky\source\repos\KugelML\BusinessEntitiesDbContext\bin\Debug\BusinessEntitiesDbContext.pdb
+C:\Users\Yanky\source\repos\KugelML\BusinessEntitiesDbContext\bin\Debug\EntityFramework.dll
+C:\Users\Yanky\source\repos\KugelML\BusinessEntitiesDbContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yanky\source\repos\KugelML\BusinessEntitiesDbContext\bin\Debug\EntityFramework.xml
+C:\Users\Yanky\source\repos\KugelML\BusinessEntitiesDbContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yanky\source\repos\KugelML\BusinessEntitiesDbContext\obj\Debug\BusinessEntitiesDbContext.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\KugelML\BusinessEntitiesDbContext\obj\Debug\BusinessEntitiesDbContext.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\KugelML\BusinessEntitiesDbContext\obj\Debug\BusinessEntitiesDbContext.csproj.CopyComplete
+C:\Users\Yanky\source\repos\KugelML\BusinessEntitiesDbContext\obj\Debug\BusinessEntitiesDbContext.dll
+C:\Users\Yanky\source\repos\KugelML\BusinessEntitiesDbContext\obj\Debug\BusinessEntitiesDbContext.pdb

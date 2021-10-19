@@ -1,0 +1,8 @@
+C:\Users\Yanky\source\repos\KugelsMVC\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\Yanky\source\repos\KugelsMVC\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\Yanky\source\repos\KugelsMVC\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\Yanky\source\repos\KugelsMVC\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\Yanky\source\repos\KugelsMVC\BusinessEntities\bin\Debug\EntityFramework.dll
+C:\Users\Yanky\source\repos\KugelsMVC\BusinessEntities\bin\Debug\EntityFramework.xml
+C:\Users\Yanky\source\repos\KugelsMVC\BusinessEntities\obj\Debug\BusinessEntities.csproj.CopyComplete
+C:\Users\Yanky\source\repos\KugelsMVC\BusinessEntities\obj\Debug\BusinessEntities.csprojAssemblyReference.cache

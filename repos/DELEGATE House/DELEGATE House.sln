@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DELEGATE House", "DELEGATE House\DELEGATE House.csproj", "{0F040CB5-489E-43D8-BC79-A2158A7408FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DELEGATE HOUSE 2", "DELEGATE HOUSE 2\DELEGATE HOUSE 2.csproj", "{157CF18D-02D1-4D60-A96A-094D14E4BB02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F040CB5-489E-43D8-BC79-A2158A7408FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F040CB5-489E-43D8-BC79-A2158A7408FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F040CB5-489E-43D8-BC79-A2158A7408FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F040CB5-489E-43D8-BC79-A2158A7408FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{157CF18D-02D1-4D60-A96A-094D14E4BB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157CF18D-02D1-4D60-A96A-094D14E4BB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157CF18D-02D1-4D60-A96A-094D14E4BB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157CF18D-02D1-4D60-A96A-094D14E4BB02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {301FC82A-6147-4F87-B028-8C615428FDBF}
+	EndGlobalSection
+EndGlobal

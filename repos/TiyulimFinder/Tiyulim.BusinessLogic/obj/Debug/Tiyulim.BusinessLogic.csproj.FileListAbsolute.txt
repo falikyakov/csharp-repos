@@ -1,0 +1,13 @@
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.BusinessLogic\obj\Debug\Tiyulim.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.BusinessLogic\bin\Debug\Tiyulim.BusinessLogic.dll
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.BusinessLogic\bin\Debug\Tiyulim.BusinessLogic.pdb
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.BusinessLogic\bin\Debug\Tiyulim.BusinessEntities.dll
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.BusinessLogic\bin\Debug\Tiyulim.DataAccess.exe
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.BusinessLogic\bin\Debug\Tiyulim.BusinessEntities.pdb
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.BusinessLogic\bin\Debug\Tiyulim.DataAccess.pdb
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.BusinessLogic\bin\Debug\Tiyulim.DataAccess.exe.config
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.BusinessLogic\obj\Debug\Tiyulim.BusinessLogic.csproj.CopyComplete
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.BusinessLogic\obj\Debug\Tiyulim.BusinessLogic.dll
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.BusinessLogic\obj\Debug\Tiyulim.BusinessLogic.pdb

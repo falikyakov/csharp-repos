@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\November 24 2019 Yossi\friend method\bin\Debug\friend method.exe.config
+C:\Users\Yanky\source\repos\November 24 2019 Yossi\friend method\bin\Debug\friend method.exe
+C:\Users\Yanky\source\repos\November 24 2019 Yossi\friend method\bin\Debug\friend method.pdb
+C:\Users\Yanky\source\repos\November 24 2019 Yossi\friend method\obj\Debug\friend method.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\November 24 2019 Yossi\friend method\obj\Debug\friend method.exe
+C:\Users\Yanky\source\repos\November 24 2019 Yossi\friend method\obj\Debug\friend method.pdb
+C:\Users\Yanky\source\repos\November 24 2019 Yossi\friend method\obj\Debug\friend method.csprojAssemblyReference.cache

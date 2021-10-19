@@ -1,0 +1,74 @@
+﻿@model Calendar.Common.VwOmer
+
+@{
+    ViewBag.Title = "Get";
+}
+
+<h2>Get</h2>
+
+<div>
+    <h4>VwOmer</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Yom)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Yom)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Weeks)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Weeks)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Yamim)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Yamim)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sod1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sod1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sod2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sod2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Teur)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Teur)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Modified)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Modified)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Yom }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

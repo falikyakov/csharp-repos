@@ -1,0 +1,5 @@
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.BusinessEntities\bin\Debug\Tiyulim.BusinessEntities.dll
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.BusinessEntities\bin\Debug\Tiyulim.BusinessEntities.pdb
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.BusinessEntities\obj\Debug\Tiyulim.BusinessEntities.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.BusinessEntities\obj\Debug\Tiyulim.BusinessEntities.dll
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.BusinessEntities\obj\Debug\Tiyulim.BusinessEntities.pdb

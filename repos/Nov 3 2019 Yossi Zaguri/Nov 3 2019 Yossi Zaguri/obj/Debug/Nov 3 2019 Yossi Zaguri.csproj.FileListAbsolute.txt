@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\Nov 3 2019 Yossi Zaguri\Nov 3 2019 Yossi Zaguri\bin\Debug\Nov 3 2019 Yossi Zaguri.exe.config
+C:\Users\Yanky\source\repos\Nov 3 2019 Yossi Zaguri\Nov 3 2019 Yossi Zaguri\bin\Debug\Nov 3 2019 Yossi Zaguri.exe
+C:\Users\Yanky\source\repos\Nov 3 2019 Yossi Zaguri\Nov 3 2019 Yossi Zaguri\bin\Debug\Nov 3 2019 Yossi Zaguri.pdb
+C:\Users\Yanky\source\repos\Nov 3 2019 Yossi Zaguri\Nov 3 2019 Yossi Zaguri\obj\Debug\Nov 3 2019 Yossi Zaguri.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\Nov 3 2019 Yossi Zaguri\Nov 3 2019 Yossi Zaguri\obj\Debug\Nov 3 2019 Yossi Zaguri.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\Nov 3 2019 Yossi Zaguri\Nov 3 2019 Yossi Zaguri\obj\Debug\Nov 3 2019 Yossi Zaguri.exe
+C:\Users\Yanky\source\repos\Nov 3 2019 Yossi Zaguri\Nov 3 2019 Yossi Zaguri\obj\Debug\Nov 3 2019 Yossi Zaguri.pdb

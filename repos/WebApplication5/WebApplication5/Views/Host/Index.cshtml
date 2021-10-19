@@ -1,0 +1,60 @@
+﻿@model ShabbatGuests.ViewModel.VMHostMain
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="AddCategory">Create New Category</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.foodCategories.First().name)
+            </th>
+            <th>
+                Foods
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.foodCategories.First().image)
+            </th>
+
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.foodCategories) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+                <a asp-action="CategoryDetails" asp-route-id="item.Id">Category Details</a>
+
+            </td>
+            <td>
+                <ul>
+                    @foreach (var i in item.foods)
+                    {
+                        <li>
+                            <a asp-action="FoodDetails" asp-route-id="i.Id"> @Html.DisplayFor(modelItem => i.name)</a>
+                        </li>
+                    }
+                </ul>
+            </td>
+            <td>
+                @if (item.image != null)
+                {
+                    <img src="data:image;base64,@System.Convert.ToBase64String(item.image)" width="80" height="60" />
+                }
+            </td>
+            <td>
+                @Html.ActionLink("Add Food", "AddFood", new { id = item.Id }) |
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

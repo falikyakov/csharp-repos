@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\ListTest\ListTest\bin\Debug\ListTest.exe.config
+C:\Users\Yanky\source\repos\ListTest\ListTest\bin\Debug\ListTest.exe
+C:\Users\Yanky\source\repos\ListTest\ListTest\bin\Debug\ListTest.pdb
+C:\Users\Yanky\source\repos\ListTest\ListTest\obj\Debug\ListTest.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\ListTest\ListTest\obj\Debug\ListTest.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\ListTest\ListTest\obj\Debug\ListTest.exe
+C:\Users\Yanky\source\repos\ListTest\ListTest\obj\Debug\ListTest.pdb

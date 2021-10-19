@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\November 17 2019\November 17 2019\bin\Debug\November 17 2019.exe.config
+C:\Users\Yanky\source\repos\November 17 2019\November 17 2019\bin\Debug\November 17 2019.exe
+C:\Users\Yanky\source\repos\November 17 2019\November 17 2019\bin\Debug\November 17 2019.pdb
+C:\Users\Yanky\source\repos\November 17 2019\November 17 2019\obj\Debug\Strategy Design.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\November 17 2019\November 17 2019\obj\Debug\Strategy Design.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\November 17 2019\November 17 2019\obj\Debug\November 17 2019.exe
+C:\Users\Yanky\source\repos\November 17 2019\November 17 2019\obj\Debug\November 17 2019.pdb

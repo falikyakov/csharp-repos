@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\CarEngineStrategy\CarEngineStrategy\bin\Debug\CarEngineStrategy.exe.config
+C:\Users\Yanky\source\repos\CarEngineStrategy\CarEngineStrategy\bin\Debug\CarEngineStrategy.exe
+C:\Users\Yanky\source\repos\CarEngineStrategy\CarEngineStrategy\bin\Debug\CarEngineStrategy.pdb
+C:\Users\Yanky\source\repos\CarEngineStrategy\CarEngineStrategy\obj\Debug\CarEngineStrategy.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\CarEngineStrategy\CarEngineStrategy\obj\Debug\CarEngineStrategy.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\CarEngineStrategy\CarEngineStrategy\obj\Debug\CarEngineStrategy.exe
+C:\Users\Yanky\source\repos\CarEngineStrategy\CarEngineStrategy\obj\Debug\CarEngineStrategy.pdb

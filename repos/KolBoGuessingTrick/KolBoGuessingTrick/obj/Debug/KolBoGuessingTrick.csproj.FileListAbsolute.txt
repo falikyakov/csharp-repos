@@ -1,0 +1,10 @@
+C:\Users\Yanky\source\repos\KolBoGuessingTrick\KolBoGuessingTrick\bin\Debug\KolBoGuessingTrick.exe.config
+C:\Users\Yanky\source\repos\KolBoGuessingTrick\KolBoGuessingTrick\bin\Debug\KolBoGuessingTrick.exe
+C:\Users\Yanky\source\repos\KolBoGuessingTrick\KolBoGuessingTrick\bin\Debug\KolBoGuessingTrick.pdb
+C:\Users\Yanky\source\repos\KolBoGuessingTrick\KolBoGuessingTrick\obj\Debug\KolBoGuessingTrick.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\KolBoGuessingTrick\KolBoGuessingTrick\obj\Debug\KolBoGuessingTrick.Form1.resources
+C:\Users\Yanky\source\repos\KolBoGuessingTrick\KolBoGuessingTrick\obj\Debug\KolBoGuessingTrick.Properties.Resources.resources
+C:\Users\Yanky\source\repos\KolBoGuessingTrick\KolBoGuessingTrick\obj\Debug\KolBoGuessingTrick.csproj.GenerateResource.cache
+C:\Users\Yanky\source\repos\KolBoGuessingTrick\KolBoGuessingTrick\obj\Debug\KolBoGuessingTrick.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\KolBoGuessingTrick\KolBoGuessingTrick\obj\Debug\KolBoGuessingTrick.exe
+C:\Users\Yanky\source\repos\KolBoGuessingTrick\KolBoGuessingTrick\obj\Debug\KolBoGuessingTrick.pdb

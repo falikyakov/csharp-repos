@@ -1,0 +1,15 @@
+C:\Users\Yanky\source\repos\KugelML\KugelML.DAL\bin\Debug\KugelML.DAL.dll.config
+C:\Users\Yanky\source\repos\KugelML\KugelML.DAL\bin\Debug\KugelML.DAL.dll
+C:\Users\Yanky\source\repos\KugelML\KugelML.DAL\bin\Debug\KugelML.DAL.pdb
+C:\Users\Yanky\source\repos\KugelML\KugelML.DAL\bin\Debug\BusinessEntitiesDbContext.dll
+C:\Users\Yanky\source\repos\KugelML\KugelML.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Yanky\source\repos\KugelML\KugelML.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yanky\source\repos\KugelML\KugelML.DAL\bin\Debug\BusinessEntitiesDbContext.pdb
+C:\Users\Yanky\source\repos\KugelML\KugelML.DAL\bin\Debug\BusinessEntitiesDbContext.dll.config
+C:\Users\Yanky\source\repos\KugelML\KugelML.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Yanky\source\repos\KugelML\KugelML.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yanky\source\repos\KugelML\KugelML.DAL\obj\Debug\KugelML.DAL.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\KugelML\KugelML.DAL\obj\Debug\KugelML.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\KugelML\KugelML.DAL\obj\Debug\KugelML.DAL.csproj.CopyComplete
+C:\Users\Yanky\source\repos\KugelML\KugelML.DAL\obj\Debug\KugelML.DAL.dll
+C:\Users\Yanky\source\repos\KugelML\KugelML.DAL\obj\Debug\KugelML.DAL.pdb

@@ -1,0 +1,6 @@
+C:\Users\Yanky\source\repos\MyKugels1\MyKugels1\obj\Debug\MyKugels1.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\MyKugels1\MyKugels1\bin\Debug\MyKugels1.exe.config
+C:\Users\Yanky\source\repos\MyKugels1\MyKugels1\bin\Debug\MyKugels1.exe
+C:\Users\Yanky\source\repos\MyKugels1\MyKugels1\bin\Debug\MyKugels1.pdb
+C:\Users\Yanky\source\repos\MyKugels1\MyKugels1\obj\Debug\MyKugels1.exe
+C:\Users\Yanky\source\repos\MyKugels1\MyKugels1\obj\Debug\MyKugels1.pdb

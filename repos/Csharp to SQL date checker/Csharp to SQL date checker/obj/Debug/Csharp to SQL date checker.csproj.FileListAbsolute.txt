@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\Csharp to SQL date checker\Csharp to SQL date checker\bin\Debug\Csharp to SQL date checker.exe.config
+C:\Users\Yanky\source\repos\Csharp to SQL date checker\Csharp to SQL date checker\bin\Debug\Csharp to SQL date checker.exe
+C:\Users\Yanky\source\repos\Csharp to SQL date checker\Csharp to SQL date checker\bin\Debug\Csharp to SQL date checker.pdb
+C:\Users\Yanky\source\repos\Csharp to SQL date checker\Csharp to SQL date checker\obj\Debug\Csharp to SQL date checker.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\Csharp to SQL date checker\Csharp to SQL date checker\obj\Debug\Csharp to SQL date checker.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\Csharp to SQL date checker\Csharp to SQL date checker\obj\Debug\Csharp to SQL date checker.exe
+C:\Users\Yanky\source\repos\Csharp to SQL date checker\Csharp to SQL date checker\obj\Debug\Csharp to SQL date checker.pdb

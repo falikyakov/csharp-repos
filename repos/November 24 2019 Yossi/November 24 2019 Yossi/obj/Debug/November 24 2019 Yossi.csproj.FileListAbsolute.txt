@@ -1,0 +1,2 @@
+C:\Users\Yanky\source\repos\November 24 2019 Yossi\November 24 2019 Yossi\obj\Debug\November 24 2019 Yossi.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\November 24 2019 Yossi\November 24 2019 Yossi\obj\Debug\November 24 2019 Yossi.csproj.CoreCompileInputs.cache

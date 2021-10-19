@@ -1,0 +1,52 @@
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\obj\Debug\Data Access.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Data Access.dll.config
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Data Access.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Data Access.pdb
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\BusinessEntities.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\EntityFramework.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\BusinessEntities.pdb
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\EntityFramework.xml
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\obj\Debug\Data Access.csproj.CopyComplete
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\obj\Debug\Data Access.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\obj\Debug\Data Access.pdb
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Google.Protobuf.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\MySql.Data.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Renci.SshNet.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Google.Protobuf.xml
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\MySql.Data.xml
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\Renci.SshNet.xml
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Data Access\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll

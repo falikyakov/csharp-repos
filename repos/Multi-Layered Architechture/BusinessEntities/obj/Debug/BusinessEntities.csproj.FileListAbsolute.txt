@@ -1,0 +1,5 @@
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\BusinessEntities\obj\Debug\BusinessEntities.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\BusinessEntities\obj\Debug\BusinessEntities.pdb

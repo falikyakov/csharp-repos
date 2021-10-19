@@ -1,0 +1,9 @@
+C:\Users\Yanky\source\repos\reminder\reminder\bin\Debug\reminder.exe.config
+C:\Users\Yanky\source\repos\reminder\reminder\bin\Debug\reminder.exe
+C:\Users\Yanky\source\repos\reminder\reminder\bin\Debug\reminder.pdb
+C:\Users\Yanky\source\repos\reminder\reminder\obj\Debug\reminder.Form1.resources
+C:\Users\Yanky\source\repos\reminder\reminder\obj\Debug\reminder.Properties.Resources.resources
+C:\Users\Yanky\source\repos\reminder\reminder\obj\Debug\reminder.csproj.GenerateResource.cache
+C:\Users\Yanky\source\repos\reminder\reminder\obj\Debug\reminder.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\reminder\reminder\obj\Debug\reminder.exe
+C:\Users\Yanky\source\repos\reminder\reminder\obj\Debug\reminder.pdb

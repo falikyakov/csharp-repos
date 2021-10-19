@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\DELEGATE House\DELEGATE House\bin\Debug\DELEGATE House.exe.config
+C:\Users\Yanky\source\repos\DELEGATE House\DELEGATE House\bin\Debug\DELEGATE House.exe
+C:\Users\Yanky\source\repos\DELEGATE House\DELEGATE House\bin\Debug\DELEGATE House.pdb
+C:\Users\Yanky\source\repos\DELEGATE House\DELEGATE House\obj\Debug\DELEGATE House.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\DELEGATE House\DELEGATE House\obj\Debug\DELEGATE House.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\DELEGATE House\DELEGATE House\obj\Debug\DELEGATE House.exe
+C:\Users\Yanky\source\repos\DELEGATE House\DELEGATE House\obj\Debug\DELEGATE House.pdb

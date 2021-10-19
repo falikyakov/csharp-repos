@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\WebApplication2\TL pic\bin\Debug\TL pic.exe.config
+C:\Users\Yanky\source\repos\WebApplication2\TL pic\bin\Debug\TL pic.exe
+C:\Users\Yanky\source\repos\WebApplication2\TL pic\bin\Debug\TL pic.pdb
+C:\Users\Yanky\source\repos\WebApplication2\TL pic\obj\Debug\TL pic.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\WebApplication2\TL pic\obj\Debug\TL pic.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\WebApplication2\TL pic\obj\Debug\TL pic.exe
+C:\Users\Yanky\source\repos\WebApplication2\TL pic\obj\Debug\TL pic.pdb

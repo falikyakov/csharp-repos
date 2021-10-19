@@ -1,0 +1,9 @@
+C:\Users\Yanky\source\repos\timer tick\timer tick\bin\Debug\timer tick.exe.config
+C:\Users\Yanky\source\repos\timer tick\timer tick\bin\Debug\timer tick.exe
+C:\Users\Yanky\source\repos\timer tick\timer tick\bin\Debug\timer tick.pdb
+C:\Users\Yanky\source\repos\timer tick\timer tick\obj\Debug\timer tick.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\timer tick\timer tick\obj\Debug\timer_tick.Form1.resources
+C:\Users\Yanky\source\repos\timer tick\timer tick\obj\Debug\timer_tick.Properties.Resources.resources
+C:\Users\Yanky\source\repos\timer tick\timer tick\obj\Debug\timer tick.csproj.GenerateResource.cache
+C:\Users\Yanky\source\repos\timer tick\timer tick\obj\Debug\timer tick.exe
+C:\Users\Yanky\source\repos\timer tick\timer tick\obj\Debug\timer tick.pdb

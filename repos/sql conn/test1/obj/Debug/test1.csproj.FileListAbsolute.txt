@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\sql conn\test1\bin\Debug\test1.exe.config
+C:\Users\Yanky\source\repos\sql conn\test1\bin\Debug\test1.exe
+C:\Users\Yanky\source\repos\sql conn\test1\bin\Debug\test1.pdb
+C:\Users\Yanky\source\repos\sql conn\test1\obj\Debug\test1.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\sql conn\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\sql conn\test1\obj\Debug\test1.exe
+C:\Users\Yanky\source\repos\sql conn\test1\obj\Debug\test1.pdb

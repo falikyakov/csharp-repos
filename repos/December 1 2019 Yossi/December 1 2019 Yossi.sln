@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "December 1 2019 Yossi", "December 1 2019 Yossi\December 1 2019 Yossi.csproj", "{4E0FA0E2-2713-4674-A22C-66528FF952D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "internet info", "internet info\internet info.csproj", "{AD846DE2-B437-4319-BA40-EB8F396CFE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E0FA0E2-2713-4674-A22C-66528FF952D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E0FA0E2-2713-4674-A22C-66528FF952D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E0FA0E2-2713-4674-A22C-66528FF952D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E0FA0E2-2713-4674-A22C-66528FF952D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD846DE2-B437-4319-BA40-EB8F396CFE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD846DE2-B437-4319-BA40-EB8F396CFE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD846DE2-B437-4319-BA40-EB8F396CFE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD846DE2-B437-4319-BA40-EB8F396CFE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08F08CD3-16EA-4ED9-93EC-992A1807666B}
+	EndGlobalSection
+EndGlobal

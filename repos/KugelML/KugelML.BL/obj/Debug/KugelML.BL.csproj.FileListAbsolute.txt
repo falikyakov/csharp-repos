@@ -1,0 +1,15 @@
+C:\Users\Yanky\source\repos\KugelML\KugelML.BL\bin\Debug\KugelML.BL.dll
+C:\Users\Yanky\source\repos\KugelML\KugelML.BL\bin\Debug\KugelML.BL.pdb
+C:\Users\Yanky\source\repos\KugelML\KugelML.BL\bin\Debug\BusinessEntitiesDbContext.dll
+C:\Users\Yanky\source\repos\KugelML\KugelML.BL\bin\Debug\KugelML.DAL.dll
+C:\Users\Yanky\source\repos\KugelML\KugelML.BL\bin\Debug\EntityFramework.dll
+C:\Users\Yanky\source\repos\KugelML\KugelML.BL\bin\Debug\BusinessEntitiesDbContext.pdb
+C:\Users\Yanky\source\repos\KugelML\KugelML.BL\bin\Debug\BusinessEntitiesDbContext.dll.config
+C:\Users\Yanky\source\repos\KugelML\KugelML.BL\bin\Debug\KugelML.DAL.pdb
+C:\Users\Yanky\source\repos\KugelML\KugelML.BL\bin\Debug\KugelML.DAL.dll.config
+C:\Users\Yanky\source\repos\KugelML\KugelML.BL\bin\Debug\EntityFramework.xml
+C:\Users\Yanky\source\repos\KugelML\KugelML.BL\obj\Debug\KugelML.BL.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\KugelML\KugelML.BL\obj\Debug\KugelML.BL.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\KugelML\KugelML.BL\obj\Debug\KugelML.BL.csproj.CopyComplete
+C:\Users\Yanky\source\repos\KugelML\KugelML.BL\obj\Debug\KugelML.BL.dll
+C:\Users\Yanky\source\repos\KugelML\KugelML.BL\obj\Debug\KugelML.BL.pdb

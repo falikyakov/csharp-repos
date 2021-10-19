@@ -1,0 +1,13 @@
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Logic\bin\Debug\Calendar.Logic.dll
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Logic\bin\Debug\Calendar.Logic.pdb
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Logic\bin\Debug\Calendar.Common.dll
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Logic\bin\Debug\Calendar.Dal.dll
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Logic\bin\Debug\EntityFramework.dll
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Logic\bin\Debug\Calendar.Common.pdb
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Logic\bin\Debug\Calendar.Common.dll.config
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Logic\bin\Debug\Calendar.Dal.pdb
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Logic\obj\Debug\Calendar.Logic.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Logic\obj\Debug\Calendar.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Logic\obj\Debug\Calendar.Logic.csproj.CopyComplete
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Logic\obj\Debug\Calendar.Logic.dll
+C:\Users\Yanky\source\repos\zz_webapplication4\Calendar.Logic\obj\Debug\Calendar.Logic.pdb

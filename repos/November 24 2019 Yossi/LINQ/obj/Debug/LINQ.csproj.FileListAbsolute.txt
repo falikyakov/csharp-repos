@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\November 24 2019 Yossi\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Yanky\source\repos\November 24 2019 Yossi\LINQ\bin\Debug\LINQ.exe
+C:\Users\Yanky\source\repos\November 24 2019 Yossi\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Yanky\source\repos\November 24 2019 Yossi\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\November 24 2019 Yossi\LINQ\obj\Debug\LINQ.exe
+C:\Users\Yanky\source\repos\November 24 2019 Yossi\LINQ\obj\Debug\LINQ.pdb
+C:\Users\Yanky\source\repos\November 24 2019 Yossi\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache

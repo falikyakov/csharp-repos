@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CalendarDbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="TblOmer">
+    <Key>
+      <PropertyRef Name="Yom" />
+    </Key>
+    <Property Name="Yom" Type="int" Nullable="false" />
+    <Property Name="Sod1" Type="nvarchar" MaxLength="10" />
+    <Property Name="Sod2" Type="nvarchar" MaxLength="10" />
+    <Property Name="Teur" Type="nvarchar" MaxLength="200" />
+    <Property Name="ModifiedDate" Type="smalldatetime" Nullable="false" />
+    <Property Name="ModifiedBy" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Picture" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'CalendarDb.dbo.VwOmer' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="VwOmer">
+    <Key>
+      <PropertyRef Name="Yom" />
+      <PropertyRef Name="ModifiedDate" />
+      <PropertyRef Name="ModifiedBy" />
+    </Key>
+    <Property Name="Yom" Type="int" Nullable="false" />
+    <Property Name="Weeks" Type="int" />
+    <Property Name="Yamim" Type="int" />
+    <Property Name="Sod1" Type="nvarchar" MaxLength="10" />
+    <Property Name="Sod2" Type="nvarchar" MaxLength="10" />
+    <Property Name="Teur" Type="nvarchar" MaxLength="200" />
+    <Property Name="ModifiedDate" Type="smalldatetime" Nullable="false" />
+    <Property Name="ModifiedBy" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Picture" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityContainer Name="CalendarDbModelStoreContainer">
+    <EntitySet Name="TblOmer" EntityType="Self.TblOmer" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="VwOmer" EntityType="Self.VwOmer" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [VwOmer].[Yom] AS [Yom], 
+    [VwOmer].[Weeks] AS [Weeks], 
+    [VwOmer].[Yamim] AS [Yamim], 
+    [VwOmer].[Sod1] AS [Sod1], 
+    [VwOmer].[Sod2] AS [Sod2], 
+    [VwOmer].[Teur] AS [Teur], 
+    [VwOmer].[ModifiedDate] AS [ModifiedDate], 
+    [VwOmer].[ModifiedBy] AS [ModifiedBy], 
+    [VwOmer].[Picture] AS [Picture]
+    FROM [dbo].[VwOmer] AS [VwOmer]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CalendarDbModelStoreContainer" CdmEntityContainer="CalendarDbEntities">
+    <EntitySetMapping Name="TblOmers">
+      <EntityTypeMapping TypeName="CalendarDbModel.TblOmer">
+        <MappingFragment StoreEntitySet="TblOmer">
+          <ScalarProperty Name="Yom" ColumnName="Yom" />
+          <ScalarProperty Name="Sod1" ColumnName="Sod1" />
+          <ScalarProperty Name="Sod2" ColumnName="Sod2" />
+          <ScalarProperty Name="Teur" ColumnName="Teur" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="Picture" ColumnName="Picture" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VwOmers">
+      <EntityTypeMapping TypeName="CalendarDbModel.VwOmer">
+        <MappingFragment StoreEntitySet="VwOmer">
+          <ScalarProperty Name="Yom" ColumnName="Yom" />
+          <ScalarProperty Name="Weeks" ColumnName="Weeks" />
+          <ScalarProperty Name="Yamim" ColumnName="Yamim" />
+          <ScalarProperty Name="Sod1" ColumnName="Sod1" />
+          <ScalarProperty Name="Sod2" ColumnName="Sod2" />
+          <ScalarProperty Name="Teur" ColumnName="Teur" />
+          <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+          <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+          <ScalarProperty Name="Picture" ColumnName="Picture" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

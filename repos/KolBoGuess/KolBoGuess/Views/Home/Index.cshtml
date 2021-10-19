@@ -1,0 +1,36 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script type="text/javascript">
+        function changeHTML() {
+            document.getElementById("num").innerHTML = "Your number is: @ViewBag.myNumber";
+        }
+    </script>
+</head>
+<body>
+    <div>
+        @using (Html.BeginForm("Index", "Home", FormMethod.Get))
+        {
+            <text>Please pick a number between 7 and 104.<br /></text>
+            <text>Now divide the number by 7, and enter the remainder:</text>
+            @Html.TextBox("mod7")
+            <text><br />Now divide the number by 5, and enter the remainder:</text>
+            @Html.TextBox("mod5")
+            <text><br />Now divide the number by 3, and enter the remainder:</text>
+            @Html.TextBox("mod3")<br />
+            <input type="submit" onchange="changeHTML()" />
+        }
+    </div>
+
+    <div id="num"></div>
+    
+</body>
+</html>

@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\DELEGATES yossi\DELEGATES yossi\bin\Debug\DELEGATES yossi.exe.config
+C:\Users\Yanky\source\repos\DELEGATES yossi\DELEGATES yossi\bin\Debug\DELEGATES yossi.exe
+C:\Users\Yanky\source\repos\DELEGATES yossi\DELEGATES yossi\bin\Debug\DELEGATES yossi.pdb
+C:\Users\Yanky\source\repos\DELEGATES yossi\DELEGATES yossi\obj\Debug\DELEGATES yossi.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\DELEGATES yossi\DELEGATES yossi\obj\Debug\DELEGATES yossi.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\DELEGATES yossi\DELEGATES yossi\obj\Debug\DELEGATES yossi.exe
+C:\Users\Yanky\source\repos\DELEGATES yossi\DELEGATES yossi\obj\Debug\DELEGATES yossi.pdb

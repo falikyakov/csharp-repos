@@ -1,0 +1,6 @@
+C:\Users\Yanky\source\repos\1234\1234\bin\Debug\1234.exe.config
+C:\Users\Yanky\source\repos\1234\1234\bin\Debug\1234.exe
+C:\Users\Yanky\source\repos\1234\1234\bin\Debug\1234.pdb
+C:\Users\Yanky\source\repos\1234\1234\obj\Debug\1234.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\1234\1234\obj\Debug\1234.exe
+C:\Users\Yanky\source\repos\1234\1234\obj\Debug\1234.pdb

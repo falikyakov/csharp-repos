@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\Nov 3 2019 Yossi Zaguri\car and computer\bin\Debug\car and computer.exe.config
+C:\Users\Yanky\source\repos\Nov 3 2019 Yossi Zaguri\car and computer\bin\Debug\car and computer.exe
+C:\Users\Yanky\source\repos\Nov 3 2019 Yossi Zaguri\car and computer\bin\Debug\car and computer.pdb
+C:\Users\Yanky\source\repos\Nov 3 2019 Yossi Zaguri\car and computer\obj\Debug\car and computer.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\Nov 3 2019 Yossi Zaguri\car and computer\obj\Debug\car and computer.exe
+C:\Users\Yanky\source\repos\Nov 3 2019 Yossi Zaguri\car and computer\obj\Debug\car and computer.pdb
+C:\Users\Yanky\source\repos\Nov 3 2019 Yossi Zaguri\car and computer\obj\Debug\car and computer.csprojAssemblyReference.cache

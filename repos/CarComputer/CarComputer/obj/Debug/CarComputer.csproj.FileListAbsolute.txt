@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\CarComputer\CarComputer\bin\Debug\CarComputer.exe.config
+C:\Users\Yanky\source\repos\CarComputer\CarComputer\bin\Debug\CarComputer.exe
+C:\Users\Yanky\source\repos\CarComputer\CarComputer\bin\Debug\CarComputer.pdb
+C:\Users\Yanky\source\repos\CarComputer\CarComputer\obj\Debug\CarComputer.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\CarComputer\CarComputer\obj\Debug\CarComputer.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\CarComputer\CarComputer\obj\Debug\CarComputer.exe
+C:\Users\Yanky\source\repos\CarComputer\CarComputer\obj\Debug\CarComputer.pdb

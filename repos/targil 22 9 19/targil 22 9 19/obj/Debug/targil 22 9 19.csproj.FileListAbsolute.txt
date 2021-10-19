@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\targil 22 9 19\targil 22 9 19\bin\Debug\targil 22 9 19.exe.config
+C:\Users\Yanky\source\repos\targil 22 9 19\targil 22 9 19\bin\Debug\targil 22 9 19.exe
+C:\Users\Yanky\source\repos\targil 22 9 19\targil 22 9 19\bin\Debug\targil 22 9 19.pdb
+C:\Users\Yanky\source\repos\targil 22 9 19\targil 22 9 19\obj\Debug\targil 22 9 19.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\targil 22 9 19\targil 22 9 19\obj\Debug\targil 22 9 19.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\targil 22 9 19\targil 22 9 19\obj\Debug\targil 22 9 19.exe
+C:\Users\Yanky\source\repos\targil 22 9 19\targil 22 9 19\obj\Debug\targil 22 9 19.pdb

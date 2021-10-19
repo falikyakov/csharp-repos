@@ -1,0 +1,6 @@
+C:\Users\Yanky\source\repos\class 9.8.19\class 9.8.19  3\bin\Debug\class 9.8.19  3.exe.config
+C:\Users\Yanky\source\repos\class 9.8.19\class 9.8.19  3\bin\Debug\class 9.8.19  3.exe
+C:\Users\Yanky\source\repos\class 9.8.19\class 9.8.19  3\bin\Debug\class 9.8.19  3.pdb
+C:\Users\Yanky\source\repos\class 9.8.19\class 9.8.19  3\obj\Debug\class 9.8.19  3.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\class 9.8.19\class 9.8.19  3\obj\Debug\class 9.8.19  3.exe
+C:\Users\Yanky\source\repos\class 9.8.19\class 9.8.19  3\obj\Debug\class 9.8.19  3.pdb

@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\Email Sender 1\Email Sender 1\bin\Debug\Email Sender 1.exe.config
+C:\Users\Yanky\source\repos\Email Sender 1\Email Sender 1\bin\Debug\Email Sender 1.exe
+C:\Users\Yanky\source\repos\Email Sender 1\Email Sender 1\bin\Debug\Email Sender 1.pdb
+C:\Users\Yanky\source\repos\Email Sender 1\Email Sender 1\obj\Debug\Email Gmail Sender 1.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\Email Sender 1\Email Sender 1\obj\Debug\Email Gmail Sender 1.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\Email Sender 1\Email Sender 1\obj\Debug\Email Sender 1.exe
+C:\Users\Yanky\source\repos\Email Sender 1\Email Sender 1\obj\Debug\Email Sender 1.pdb

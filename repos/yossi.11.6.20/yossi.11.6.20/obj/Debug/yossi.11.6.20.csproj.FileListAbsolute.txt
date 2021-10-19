@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\yossi.11.6.20\yossi.11.6.20\bin\Debug\yossi.11.6.20.exe.config
+C:\Users\Yanky\source\repos\yossi.11.6.20\yossi.11.6.20\bin\Debug\yossi.11.6.20.exe
+C:\Users\Yanky\source\repos\yossi.11.6.20\yossi.11.6.20\bin\Debug\yossi.11.6.20.pdb
+C:\Users\Yanky\source\repos\yossi.11.6.20\yossi.11.6.20\obj\Debug\yossi.11.6.20.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\yossi.11.6.20\yossi.11.6.20\obj\Debug\yossi.11.6.20.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\yossi.11.6.20\yossi.11.6.20\obj\Debug\yossi.11.6.20.exe
+C:\Users\Yanky\source\repos\yossi.11.6.20\yossi.11.6.20\obj\Debug\yossi.11.6.20.pdb

@@ -1,0 +1,53 @@
+<HTML>
+<HEAD>
+<META NAME="GENERATOR" Content="Microsoft Visual Studio">
+<TITLE></TITLE>
+    <script src="jquery.js"></script>
+    <script >
+        $(document).ready(function(){
+            $("#begin_button").click(function () {
+                $(location).attr('href','Page2.htm');
+            })
+        })
+    </script>
+    <style>
+        body{
+            background-image:url('background_submarine.jpg');
+            background-size:100% 100%;
+            background-repeat:no-repeat;
+        }
+        .title{text-align:center}
+        h1{font-size: 500%}
+        h2{font-size:200%}
+        #begin_button{
+            position: absolute;
+            top:550px;
+            left:50%;
+            width:200px;
+            height:110px;
+            border-radius:35px;
+            margin-left:-100px;
+            background-image:url('button_bg.jpg');
+            background-size:cover;
+            background-repeat:no-repeat;
+            color:blueviolet;
+            font-size:22px;
+            border:dashed 2px white;
+
+        }
+       
+    </style>
+</HEAD>
+<BODY>
+    <h1 class="title">Submarines</h1>
+    <h2 class="title">Sharks of Steel</h2>
+
+ 
+    <button id="begin_button">Begin the Journey</button>
+
+
+
+
+
+</BODY>
+</HTML>

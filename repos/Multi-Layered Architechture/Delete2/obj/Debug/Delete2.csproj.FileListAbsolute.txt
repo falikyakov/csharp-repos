@@ -1,0 +1,5 @@
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\Delete2\bin\Debug\Delete2.exe.config
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\Delete2\bin\Debug\Delete2.exe
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\Delete2\bin\Debug\Delete2.pdb
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\Delete2\obj\Debug\Delete2.exe
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\Delete2\obj\Debug\Delete2.pdb

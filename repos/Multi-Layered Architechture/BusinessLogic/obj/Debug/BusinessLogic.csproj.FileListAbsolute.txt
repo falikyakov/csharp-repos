@@ -1,0 +1,10 @@
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\BusinessLogic\bin\Debug\BusinessEntities.dll
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\BusinessLogic\bin\Debug\ML.DataAccessor.dll
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\BusinessLogic\bin\Debug\BusinessEntities.pdb
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\BusinessLogic\bin\Debug\ML.DataAccessor.pdb
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Yanky\source\repos\Multi-Layered Architechture\BusinessLogic\obj\Debug\BusinessLogic.pdb

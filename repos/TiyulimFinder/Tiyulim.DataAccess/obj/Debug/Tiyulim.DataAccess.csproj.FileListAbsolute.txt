@@ -1,0 +1,13 @@
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.DataAccess\obj\Debug\Tiyulim.DataAccess.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.DataAccess\bin\Debug\Tiyulim.DataAccess.exe.config
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.DataAccess\bin\Debug\Tiyulim.DataAccess.exe
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.DataAccess\bin\Debug\Tiyulim.DataAccess.pdb
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.DataAccess\bin\Debug\Tiyulim.BusinessEntities.dll
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.DataAccess\bin\Debug\Tiyulim.BusinessEntities.pdb
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.DataAccess\obj\Debug\Tiyulim.DataAccess.csproj.CopyComplete
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.DataAccess\obj\Debug\Tiyulim.DataAccess.exe
+C:\Users\Yanky\source\repos\TiyulimFinder\Tiyulim.DataAccess\obj\Debug\Tiyulim.DataAccess.pdb

@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="Scripts/jquery-3.4.1.js"></script>
+    <script>
+        var SelectedFlower;
+        function SetFlower(s) {
+            SelectedFlower = s.value;
+        }
+    </script>
+</head>
+<body>
+    <button>press here</button>
+
+    <select onchange="SetFlower(this)">
+        <option value="tulip">Colorful</option>
+        <option value="calanit">calanit</option>
+    </select>
+
+
+    <table border="1">
+        <tr>
+            <td id="theID">0</td>
+            <td id="theDescription">Empty</td>
+            <td> <img id="theImage" src="C:\Users\Yanky\Desktop\IMG_4032" /></td>
+        </tr>
+    </table>
+
+    <script>
+
+        $("button").click(function () {
+            $.getJSON("/home/flower?what=" + SelectedFlower, function (result) {
+                $("#theID").html(result.id);
+                $("#theDescription").text(result.description);
+                $("#theImage").attr("src", result.image);
+            });
+        });
+
+    </script>
+</body>
+</html>

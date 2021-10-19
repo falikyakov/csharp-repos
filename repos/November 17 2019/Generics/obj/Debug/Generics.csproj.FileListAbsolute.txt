@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\November 17 2019\Generics\bin\Debug\Generics.exe.config
+C:\Users\Yanky\source\repos\November 17 2019\Generics\bin\Debug\Generics.exe
+C:\Users\Yanky\source\repos\November 17 2019\Generics\bin\Debug\Generics.pdb
+C:\Users\Yanky\source\repos\November 17 2019\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\November 17 2019\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\November 17 2019\Generics\obj\Debug\Generics.exe
+C:\Users\Yanky\source\repos\November 17 2019\Generics\obj\Debug\Generics.pdb

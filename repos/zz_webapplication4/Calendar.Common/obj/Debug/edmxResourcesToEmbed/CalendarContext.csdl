@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="nsCalendarDbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TblOmer">
+    <Key>
+      <PropertyRef Name="Yom" />
+    </Key>
+    <Property Name="Yom" Type="Int32" Nullable="false" />
+    <Property Name="Sod1" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="Sod2" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="Teur" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="ModifiedDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="ModifiedBy" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Picture" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="VwOmer">
+    <Key>
+      <PropertyRef Name="Yom" />
+      <PropertyRef Name="ModifiedDate" />
+      <PropertyRef Name="ModifiedBy" />
+    </Key>
+    <Property Name="Yom" Type="Int32" Nullable="false" />
+    <Property Name="Weeks" Type="Int32" />
+    <Property Name="Yamim" Type="Int32" />
+    <Property Name="Sod1" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="Sod2" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="Teur" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="ModifiedDate" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="ModifiedBy" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Picture" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="CalendarContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TblOmers" EntityType="Self.TblOmer" />
+    <EntitySet Name="VwOmers" EntityType="Self.VwOmer" />
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,5 @@
+C:\Users\Yanky\source\repos\אותיות תהילים\retrieve tehillim\bin\Debug\retrieve tehillim.dll
+C:\Users\Yanky\source\repos\אותיות תהילים\retrieve tehillim\bin\Debug\retrieve tehillim.pdb
+C:\Users\Yanky\source\repos\אותיות תהילים\retrieve tehillim\obj\Debug\retrieve tehillim.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\אותיות תהילים\retrieve tehillim\obj\Debug\retrieve tehillim.dll
+C:\Users\Yanky\source\repos\אותיות תהילים\retrieve tehillim\obj\Debug\retrieve tehillim.pdb

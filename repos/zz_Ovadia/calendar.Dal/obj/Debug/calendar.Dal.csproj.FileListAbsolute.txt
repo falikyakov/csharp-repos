@@ -1,0 +1,6 @@
+C:\Users\Yanky\source\repos\zz_Ovadia\calendar.Dal\bin\Debug\calendar.Dal.dll
+C:\Users\Yanky\source\repos\zz_Ovadia\calendar.Dal\bin\Debug\calendar.Dal.pdb
+C:\Users\Yanky\source\repos\zz_Ovadia\calendar.Dal\obj\Debug\calendar.Dal.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\zz_Ovadia\calendar.Dal\obj\Debug\calendar.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\zz_Ovadia\calendar.Dal\obj\Debug\calendar.Dal.dll
+C:\Users\Yanky\source\repos\zz_Ovadia\calendar.Dal\obj\Debug\calendar.Dal.pdb

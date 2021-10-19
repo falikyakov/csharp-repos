@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\Adapter Connection\Adapter Connection\bin\Debug\Adapter Connection.exe.config
+C:\Users\Yanky\source\repos\Adapter Connection\Adapter Connection\bin\Debug\Adapter Connection.exe
+C:\Users\Yanky\source\repos\Adapter Connection\Adapter Connection\bin\Debug\Adapter Connection.pdb
+C:\Users\Yanky\source\repos\Adapter Connection\Adapter Connection\obj\Debug\Adapter Connection.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\Adapter Connection\Adapter Connection\obj\Debug\Adapter Connection.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\Adapter Connection\Adapter Connection\obj\Debug\Adapter Connection.exe
+C:\Users\Yanky\source\repos\Adapter Connection\Adapter Connection\obj\Debug\Adapter Connection.pdb

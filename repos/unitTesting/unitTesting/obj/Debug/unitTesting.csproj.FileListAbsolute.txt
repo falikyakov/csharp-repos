@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\unitTesting\unitTesting\bin\Debug\unitTesting.exe.config
+C:\Users\Yanky\source\repos\unitTesting\unitTesting\bin\Debug\unitTesting.exe
+C:\Users\Yanky\source\repos\unitTesting\unitTesting\bin\Debug\unitTesting.pdb
+C:\Users\Yanky\source\repos\unitTesting\unitTesting\obj\Debug\unitTesting.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\unitTesting\unitTesting\obj\Debug\unitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\unitTesting\unitTesting\obj\Debug\unitTesting.exe
+C:\Users\Yanky\source\repos\unitTesting\unitTesting\obj\Debug\unitTesting.pdb

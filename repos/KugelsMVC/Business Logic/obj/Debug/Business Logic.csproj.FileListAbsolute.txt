@@ -1,0 +1,11 @@
+C:\Users\Yanky\source\repos\KugelsMVC\Business Logic\obj\Debug\Business Logic.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\KugelsMVC\Business Logic\bin\Debug\Business Logic.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Business Logic\bin\Debug\Business Logic.pdb
+C:\Users\Yanky\source\repos\KugelsMVC\Business Logic\bin\Debug\BusinessEntities.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Business Logic\bin\Debug\Data Access.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Business Logic\bin\Debug\BusinessEntities.pdb
+C:\Users\Yanky\source\repos\KugelsMVC\Business Logic\bin\Debug\Data Access.pdb
+C:\Users\Yanky\source\repos\KugelsMVC\Business Logic\bin\Debug\Data Access.dll.config
+C:\Users\Yanky\source\repos\KugelsMVC\Business Logic\obj\Debug\Business Logic.csproj.CopyComplete
+C:\Users\Yanky\source\repos\KugelsMVC\Business Logic\obj\Debug\Business Logic.dll
+C:\Users\Yanky\source\repos\KugelsMVC\Business Logic\obj\Debug\Business Logic.pdb

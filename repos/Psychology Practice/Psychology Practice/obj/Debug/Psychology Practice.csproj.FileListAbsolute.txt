@@ -1,0 +1,9 @@
+C:\Users\Yanky\source\repos\Psychology Practice\Psychology Practice\bin\Debug\Psychology Practice.exe.config
+C:\Users\Yanky\source\repos\Psychology Practice\Psychology Practice\bin\Debug\Psychology Practice.exe
+C:\Users\Yanky\source\repos\Psychology Practice\Psychology Practice\bin\Debug\Psychology Practice.pdb
+C:\Users\Yanky\source\repos\Psychology Practice\Psychology Practice\obj\Debug\Psychology Practice.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\Psychology Practice\Psychology Practice\obj\Debug\Psychology_Practice.Form1.resources
+C:\Users\Yanky\source\repos\Psychology Practice\Psychology Practice\obj\Debug\Psychology_Practice.Properties.Resources.resources
+C:\Users\Yanky\source\repos\Psychology Practice\Psychology Practice\obj\Debug\Psychology Practice.csproj.GenerateResource.cache
+C:\Users\Yanky\source\repos\Psychology Practice\Psychology Practice\obj\Debug\Psychology Practice.exe
+C:\Users\Yanky\source\repos\Psychology Practice\Psychology Practice\obj\Debug\Psychology Practice.pdb

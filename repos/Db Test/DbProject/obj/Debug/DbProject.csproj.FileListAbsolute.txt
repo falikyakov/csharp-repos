@@ -1,0 +1,25 @@
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\DbProject.exe.config
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\DbProject.exe
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\DbProject.pdb
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\EntityFramework.dll
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\EntityFramework.xml
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yanky\source\repos\Db Test\DbProject\obj\Debug\DbProject.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\Db Test\DbProject\obj\Debug\DbProject.csproj.CopyComplete
+C:\Users\Yanky\source\repos\Db Test\DbProject\obj\Debug\DbProject.exe
+C:\Users\Yanky\source\repos\Db Test\DbProject\obj\Debug\DbProject.pdb
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\Db Test.dll
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\System.Web.Mvc.dll
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\System.Web.WebPages.dll
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\System.Web.Razor.dll
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\Db Test.pdb
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\Db Test.dll.config
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\System.Web.Mvc.xml
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\System.Web.WebPages.xml
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\System.Web.Razor.xml
+C:\Users\Yanky\source\repos\Db Test\DbProject\bin\Debug\System.Web.WebPages.Deployment.xml

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="CalendarDbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="TblOmer">
+          <Key>
+            <PropertyRef Name="Yom" />
+          </Key>
+          <Property Name="Yom" Type="int" Nullable="false" />
+          <Property Name="Sod1" Type="nvarchar" MaxLength="10" />
+          <Property Name="Sod2" Type="nvarchar" MaxLength="10" />
+          <Property Name="Teur" Type="nvarchar" MaxLength="200" />
+          <Property Name="ModifiedDate" Type="smalldatetime" Nullable="false" />
+          <Property Name="ModifiedBy" Type="nvarchar" MaxLength="20" Nullable="false" />
+          <Property Name="Picture" Type="nvarchar" MaxLength="100" />
+        </EntityType>
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'CalendarDb.dbo.VwOmer' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="VwOmer">
+          <Key>
+            <PropertyRef Name="Yom" />
+            <PropertyRef Name="ModifiedDate" />
+            <PropertyRef Name="ModifiedBy" />
+          </Key>
+          <Property Name="Yom" Type="int" Nullable="false" />
+          <Property Name="Weeks" Type="int" />
+          <Property Name="Yamim" Type="int" />
+          <Property Name="Sod1" Type="nvarchar" MaxLength="10" />
+          <Property Name="Sod2" Type="nvarchar" MaxLength="10" />
+          <Property Name="Teur" Type="nvarchar" MaxLength="200" />
+          <Property Name="ModifiedDate" Type="smalldatetime" Nullable="false" />
+          <Property Name="ModifiedBy" Type="nvarchar" MaxLength="20" Nullable="false" />
+          <Property Name="Picture" Type="nvarchar" MaxLength="100" />
+        </EntityType>
+        <EntityContainer Name="CalendarDbModelStoreContainer">
+          <EntitySet Name="TblOmer" EntityType="Self.TblOmer" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="VwOmer" EntityType="Self.VwOmer" store:Type="Views" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [VwOmer].[Yom] AS [Yom], 
+    [VwOmer].[Weeks] AS [Weeks], 
+    [VwOmer].[Yamim] AS [Yamim], 
+    [VwOmer].[Sod1] AS [Sod1], 
+    [VwOmer].[Sod2] AS [Sod2], 
+    [VwOmer].[Teur] AS [Teur], 
+    [VwOmer].[ModifiedDate] AS [ModifiedDate], 
+    [VwOmer].[ModifiedBy] AS [ModifiedBy], 
+    [VwOmer].[Picture] AS [Picture]
+    FROM [dbo].[VwOmer] AS [VwOmer]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="CalendarDbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="TblOmer">
+          <Key>
+            <PropertyRef Name="Yom" />
+          </Key>
+          <Property Name="Yom" Type="Int32" Nullable="false" />
+          <Property Name="Sod1" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="Sod2" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="Teur" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+          <Property Name="ModifiedDate" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="ModifiedBy" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Picture" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityType Name="VwOmer">
+          <Key>
+            <PropertyRef Name="Yom" />
+            <PropertyRef Name="ModifiedDate" />
+            <PropertyRef Name="ModifiedBy" />
+          </Key>
+          <Property Name="Yom" Type="Int32" Nullable="false" />
+          <Property Name="Weeks" Type="Int32" />
+          <Property Name="Yamim" Type="Int32" />
+          <Property Name="Sod1" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="Sod2" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+          <Property Name="Teur" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+          <Property Name="ModifiedDate" Type="DateTime" Nullable="false" Precision="0" />
+          <Property Name="ModifiedBy" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Picture" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <EntityContainer Name="CalendarDbEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="TblOmers" EntityType="Self.TblOmer" />
+          <EntitySet Name="VwOmers" EntityType="Self.VwOmer" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="CalendarDbModelStoreContainer" CdmEntityContainer="CalendarDbEntities">
+          <EntitySetMapping Name="TblOmers">
+            <EntityTypeMapping TypeName="CalendarDbModel.TblOmer">
+              <MappingFragment StoreEntitySet="TblOmer">
+                <ScalarProperty Name="Yom" ColumnName="Yom" />
+                <ScalarProperty Name="Sod1" ColumnName="Sod1" />
+                <ScalarProperty Name="Sod2" ColumnName="Sod2" />
+                <ScalarProperty Name="Teur" ColumnName="Teur" />
+                <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+                <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+                <ScalarProperty Name="Picture" ColumnName="Picture" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="VwOmers">
+            <EntityTypeMapping TypeName="CalendarDbModel.VwOmer">
+              <MappingFragment StoreEntitySet="VwOmer">
+                <ScalarProperty Name="Yom" ColumnName="Yom" />
+                <ScalarProperty Name="Weeks" ColumnName="Weeks" />
+                <ScalarProperty Name="Yamim" ColumnName="Yamim" />
+                <ScalarProperty Name="Sod1" ColumnName="Sod1" />
+                <ScalarProperty Name="Sod2" ColumnName="Sod2" />
+                <ScalarProperty Name="Teur" ColumnName="Teur" />
+                <ScalarProperty Name="ModifiedDate" ColumnName="ModifiedDate" />
+                <ScalarProperty Name="ModifiedBy" ColumnName="ModifiedBy" />
+                <ScalarProperty Name="Picture" ColumnName="Picture" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

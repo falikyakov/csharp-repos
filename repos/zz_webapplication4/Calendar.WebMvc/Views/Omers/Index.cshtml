@@ -1,0 +1,69 @@
+﻿@model IEnumerable<Calendar.Common.VwOmer>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Yom)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Weeks)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Yamim)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sod1)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sod2)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Teur)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Modified)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Yom)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Weeks)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Yamim)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Sod1)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Sod2)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Teur)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Modified)
+    </td>
+    <td>
+        @Html.ActionLink("Update", "Update", new { yom = item.Yom }) |
+        @Html.ActionLink("Details", "Details", new { id = item.Yom }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.Yom })
+    </td>
+</tr>
+}
+
+</table>

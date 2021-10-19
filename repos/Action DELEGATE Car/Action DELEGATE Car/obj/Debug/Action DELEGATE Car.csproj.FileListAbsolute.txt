@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\Action DELEGATE Car\Action DELEGATE Car\bin\Debug\Action DELEGATE Car.exe.config
+C:\Users\Yanky\source\repos\Action DELEGATE Car\Action DELEGATE Car\bin\Debug\Action DELEGATE Car.exe
+C:\Users\Yanky\source\repos\Action DELEGATE Car\Action DELEGATE Car\bin\Debug\Action DELEGATE Car.pdb
+C:\Users\Yanky\source\repos\Action DELEGATE Car\Action DELEGATE Car\obj\Debug\Action DELEGATE Car.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\Action DELEGATE Car\Action DELEGATE Car\obj\Debug\Action DELEGATE Car.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\Action DELEGATE Car\Action DELEGATE Car\obj\Debug\Action DELEGATE Car.exe
+C:\Users\Yanky\source\repos\Action DELEGATE Car\Action DELEGATE Car\obj\Debug\Action DELEGATE Car.pdb

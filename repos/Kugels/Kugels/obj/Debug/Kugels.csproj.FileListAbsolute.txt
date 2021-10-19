@@ -1,0 +1,10 @@
+C:\Users\Yanky\source\repos\Kugels\Kugels\bin\Debug\Kugels.exe.config
+C:\Users\Yanky\source\repos\Kugels\Kugels\bin\Debug\Kugels.exe
+C:\Users\Yanky\source\repos\Kugels\Kugels\bin\Debug\Kugels.pdb
+C:\Users\Yanky\source\repos\Kugels\Kugels\obj\Debug\Kugels.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\Kugels\Kugels\obj\Debug\Kugels.Form1.resources
+C:\Users\Yanky\source\repos\Kugels\Kugels\obj\Debug\Kugels.Properties.Resources.resources
+C:\Users\Yanky\source\repos\Kugels\Kugels\obj\Debug\Kugels.csproj.GenerateResource.cache
+C:\Users\Yanky\source\repos\Kugels\Kugels\obj\Debug\Kugels.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\Kugels\Kugels\obj\Debug\Kugels.exe
+C:\Users\Yanky\source\repos\Kugels\Kugels\obj\Debug\Kugels.pdb

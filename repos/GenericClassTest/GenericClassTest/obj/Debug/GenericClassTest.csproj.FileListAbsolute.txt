@@ -1,0 +1,7 @@
+C:\Users\Yanky\source\repos\GenericClassTest\GenericClassTest\bin\Debug\GenericClassTest.exe.config
+C:\Users\Yanky\source\repos\GenericClassTest\GenericClassTest\bin\Debug\GenericClassTest.exe
+C:\Users\Yanky\source\repos\GenericClassTest\GenericClassTest\bin\Debug\GenericClassTest.pdb
+C:\Users\Yanky\source\repos\GenericClassTest\GenericClassTest\obj\Debug\GenericClassTest.csprojAssemblyReference.cache
+C:\Users\Yanky\source\repos\GenericClassTest\GenericClassTest\obj\Debug\GenericClassTest.csproj.CoreCompileInputs.cache
+C:\Users\Yanky\source\repos\GenericClassTest\GenericClassTest\obj\Debug\GenericClassTest.exe
+C:\Users\Yanky\source\repos\GenericClassTest\GenericClassTest\obj\Debug\GenericClassTest.pdb
